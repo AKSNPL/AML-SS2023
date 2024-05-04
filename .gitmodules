@@ -1,0 +1,6 @@
+[submodule "PROJECT_3/PROJECT_3/DeepSVR"]
+	path = PROJECT_3/PROJECT_3/DeepSVR
+	url = https://github.com/griffithlab/DeepSVR
+[submodule "PROJECT_3/DeepSVR"]
+	path = PROJECT_3/DeepSVR
+	url = https://github.com/griffithlab/DeepSVR
